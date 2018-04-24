@@ -12,6 +12,7 @@
     <module>bitcounting</module>
     <module>stop-spinning-my-words</module>
       <module>fold-an-array</module>
+      <module>are-they-the-same</module>
   </modules>
 
   <name>codewars</name>
