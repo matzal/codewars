@@ -13,6 +13,7 @@
     <module>stop-spinning-my-words</module>
       <module>fold-an-array</module>
       <module>are-they-the-same</module>
+      <module>rectangle-into-squares</module>
   </modules>
 
   <name>codewars</name>
