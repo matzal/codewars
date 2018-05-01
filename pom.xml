@@ -14,6 +14,7 @@
       <module>fold-an-array</module>
       <module>are-they-the-same</module>
       <module>rectangle-into-squares</module>
+      <module>playing-with-digits</module>
   </modules>
 
   <name>codewars</name>
