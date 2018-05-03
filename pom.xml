@@ -15,6 +15,7 @@
       <module>are-they-the-same</module>
       <module>rectangle-into-squares</module>
       <module>playing-with-digits</module>
+      <module>StreetFighter2-CharacterSelection</module>
   </modules>
 
   <name>codewars</name>
