@@ -16,6 +16,7 @@
       <module>rectangle-into-squares</module>
       <module>playing-with-digits</module>
       <module>StreetFighter2-CharacterSelection</module>
+      <module>Tribonacci-Sequence</module>
   </modules>
 
   <name>codewars</name>
