@@ -17,6 +17,7 @@
       <module>playing-with-digits</module>
       <module>StreetFighter2-CharacterSelection</module>
       <module>Tribonacci-Sequence</module>
+      <module>is-my-friend-cheating</module>
   </modules>
 
   <name>codewars</name>
