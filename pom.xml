@@ -18,6 +18,7 @@
       <module>StreetFighter2-CharacterSelection</module>
       <module>Tribonacci-Sequence</module>
       <module>is-my-friend-cheating</module>
+      <module>First-Variation-on-Caesar-Cipher</module>
   </modules>
 
   <name>codewars</name>
