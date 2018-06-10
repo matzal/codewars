@@ -20,6 +20,7 @@
       <module>is-my-friend-cheating</module>
       <module>First-Variation-on-Caesar-Cipher</module>
       <module>Middle-Permutation</module>
+      <module>Find-The-Smallest</module>
   </modules>
 
   <name>codewars</name>
